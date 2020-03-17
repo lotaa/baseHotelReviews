@@ -1,0 +1,6 @@
+---
+applications:
+- name: oh-hotel-reviews
+  host: oh-hotel-reviews
+  instances: 1
+  memory: 256M
